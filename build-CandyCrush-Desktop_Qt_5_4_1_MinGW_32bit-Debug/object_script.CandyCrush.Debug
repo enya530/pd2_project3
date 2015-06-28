@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\blank.o
+./debug\destroy.o
+./debug\star.o
+./debug\horizontal.o
+./debug\vertical.o
+./debug\nineblock.o
+./debug\gameover.o
+./debug\qrc_pic.o
+./debug\moc_mainwindow.o
+./debug\moc_blank.o
+./debug\moc_gameover.o
+);

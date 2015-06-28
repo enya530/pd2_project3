@@ -1,0 +1,15 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\blank.o
+./release\destroy.o
+./release\star.o
+./release\horizontal.o
+./release\vertical.o
+./release\nineblock.o
+./release\gameover.o
+./release\qrc_pic.o
+./release\moc_mainwindow.o
+./release\moc_blank.o
+./release\moc_gameover.o
+);
