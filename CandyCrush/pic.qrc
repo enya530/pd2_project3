@@ -22,12 +22,12 @@
     <qresource prefix="/p">
         <file>yellow.png</file>
         <file>yellow_bomb.png</file>
+        <file>yellow_bomb_clicked.png</file>
         <file>yellow_clicked.png</file>
         <file>yellow_horizontal_bomb.png</file>
         <file>yellow_horizontal_bomb_clicked.png</file>
-        <file>yellow_vertical_bomb_clicked.png</file>
         <file>yellow_vertical_bomb.png</file>
-        <file>yellow_bomb_clicked.png</file>
+        <file>yellow_vertical_bomb_clicked.png</file>
         <file>red.png</file>
         <file>red_bomb.png</file>
         <file>red_bomb_clicked.png</file>
